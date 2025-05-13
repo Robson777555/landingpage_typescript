@@ -1,0 +1,14 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`<SectionContainer /> > should match snapshot 1`] = `
+<div>
+  <div
+    class="sc-bXdtCk xTezd"
+    data-testid="section-container"
+  >
+    <h1>
+      Test Content
+    </h1>
+  </div>
+</div>
+`;

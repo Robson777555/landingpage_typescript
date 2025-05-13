@@ -1,0 +1,20 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`<Footer /> > should render footer with HTML content 1`] = `
+<div>
+  <footer
+    class="sc-fmZSGO faxVat"
+  >
+    <div
+      class="sc-hKDTPf cCEBFu"
+      data-testid="section-container"
+    >
+      <div>
+        <h1>
+          Olá
+        </h1>
+      </div>
+    </div>
+  </footer>
+</div>
+`;

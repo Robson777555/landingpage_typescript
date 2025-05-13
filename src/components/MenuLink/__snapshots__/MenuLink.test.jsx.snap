@@ -1,0 +1,11 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`<MenuLink /> > should match snapshot 1`] = `
+<a
+  class="sc-bXdtCk kDKUyx"
+  href="#section"
+  target="_self"
+>
+  Link Text
+</a>
+`;
