@@ -1,0 +1,10 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Heading Component > Snapshot of page 1`] = `
+<h1
+  class="sc-bXdtCk ksXdHw"
+  data-testid="heading"
+>
+  Test Heading
+</h1>
+`;

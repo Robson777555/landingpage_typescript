@@ -1,0 +1,69 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`<NavLinks /> >  Snapshpt page  1`] = `
+<nav
+  aria-label="Main menu"
+  class="sc-hKDTPf kOFeWo"
+  role="navigation"
+>
+  <a
+    class="sc-bXdtCk kDKUyx"
+    href="#target1"
+    target="_self"
+  >
+    Serviços
+  </a>
+  <a
+    class="sc-bXdtCk kDKUyx"
+    href="#target2"
+    target="_self"
+  >
+    Tecnologias usadas
+  </a>
+  <a
+    class="sc-bXdtCk kDKUyx"
+    href="#target3"
+    target="_self"
+  >
+    Tecnologias essenciais
+  </a>
+</nav>
+`;
+
+exports[`<NavLinks /> > should match snapshot with links 1`] = `
+<nav
+  aria-label="Main menu"
+  class="sc-hKDTPf kOFeWo"
+  role="navigation"
+>
+  <a
+    class="sc-bXdtCk kDKUyx"
+    href="#target1"
+    target="_self"
+  >
+    Serviços
+  </a>
+  <a
+    class="sc-bXdtCk kDKUyx"
+    href="#target2"
+    target="_self"
+  >
+    Tecnologias usadas
+  </a>
+  <a
+    class="sc-bXdtCk kDKUyx"
+    href="#target3"
+    target="_self"
+  >
+    Tecnologias essenciais
+  </a>
+</nav>
+`;
+
+exports[`<NavLinks /> > should match snapshot without links 1`] = `
+<nav
+  aria-label="Main menu"
+  class="sc-hKDTPf kOFeWo"
+  role="navigation"
+/>
+`;

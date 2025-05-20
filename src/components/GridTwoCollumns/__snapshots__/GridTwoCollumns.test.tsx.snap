@@ -1,0 +1,112 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`<GridTwoCollumns /> > Snapshot of page 1`] = `
+<div
+  class="sc-dYOLZc fAiKqp"
+  data-testid="section-background"
+>
+  <div
+    class="sc-jMpmlX CjQRF"
+    data-testid="section-container"
+  >
+    <div
+      class="sc-bXdtCk jFQVhJ"
+    >
+      <div
+        class="sc-hKDTPf bzHkyl"
+      >
+        <h2
+          class="sc-gwsNht mBpBH"
+        >
+          Essenciais
+        </h2>
+        <div
+          class="sc-hoLldG fOqDwp"
+          data-testid="text-component"
+        >
+          As 3 tecnologias básicas no front são:
+        </div>
+      </div>
+      <div
+        class="sc-fmZSGO bDmhIR"
+      >
+        <img
+          alt="Essenciais"
+          data-nimg="1"
+          decoding="async"
+          height="500"
+          loading="lazy"
+          src="/assets/images/javascript.svg"
+          style="color: transparent; width: 100%; height: auto; max-width: 400px;"
+          width="500"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<GridTwoCollumns /> > should match snapshot for desktop version 1`] = `
+<div
+  class="sc-dYOLZc fAiKqp"
+  data-testid="section-background"
+>
+  <div
+    class="sc-jMpmlX CjQRF"
+    data-testid="section-container"
+  >
+    <div
+      class="sc-bXdtCk jFQVhJ"
+    >
+      <div
+        class="sc-hKDTPf bzHkyl"
+      >
+        <h2
+          class="sc-gwsNht mBpBH"
+        >
+          Essenciais
+        </h2>
+        <div
+          class="sc-hoLldG fOqDwp"
+          data-testid="text-component"
+        >
+          As 3 tecnologias básicas no front são:
+        </div>
+      </div>
+      <div
+        class="sc-fmZSGO bDmhIR"
+      >
+        <img
+          alt="Essenciais"
+          data-nimg="1"
+          decoding="async"
+          height="500"
+          loading="lazy"
+          src="/assets/images/javascript.svg"
+          style="color: transparent; width: 100%; height: auto; max-width: 400px;"
+          width="500"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<GridTwoCollumns /> > should match snapshot for mobile version 1`] = `
+<div
+  class="sc-jZhnRx kNAgFn"
+>
+  <h2
+    style="font-weight: bold;"
+  >
+    Essenciais
+  </h2>
+  <p>
+    As 3 tecnologias básicas no front são:
+  </p>
+  <img
+    alt="Essenciais"
+    src="/assets/images/javascript.svg"
+  />
+</div>
+`;

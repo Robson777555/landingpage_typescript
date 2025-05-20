@@ -1,0 +1,49 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`<SectionBackground /> >  Snapshpt page  1`] = `
+<div
+  class="sc-bXdtCk kCLHIs"
+  data-testid="section-background"
+>
+  <div
+    class="sc-hKDTPf cCEBFu"
+    data-testid="section-container"
+  >
+    <h1>
+      Test Content
+    </h1>
+  </div>
+</div>
+`;
+
+exports[`<SectionBackground /> > should render with dark background when background prop is true 1`] = `
+<div
+  class="sc-bXdtCk iXMDwB"
+  data-testid="section-background"
+>
+  <div
+    class="sc-hKDTPf cCEBFu"
+    data-testid="section-container"
+  >
+    <h1>
+      Test Content
+    </h1>
+  </div>
+</div>
+`;
+
+exports[`<SectionBackground /> > should render with light background by default 1`] = `
+<div
+  class="sc-bXdtCk kCLHIs"
+  data-testid="section-background"
+>
+  <div
+    class="sc-hKDTPf cCEBFu"
+    data-testid="section-container"
+  >
+    <h1>
+      Test Content
+    </h1>
+  </div>
+</div>
+`;

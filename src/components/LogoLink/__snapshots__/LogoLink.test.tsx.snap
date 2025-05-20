@@ -1,0 +1,55 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`<LogoLink /> > Snapshot of page 1`] = `
+<a
+  class="sc-bXdtCk joylCA"
+  href="#target"
+  target="_self"
+>
+  <span>
+    Logo
+  </span>
+</a>
+`;
+
+exports[`<LogoLink /> > should match snapshot with image 1`] = `
+<h1
+  class="sc-hKDTPf fAiovE"
+  data-testid="heading"
+>
+  <a
+    class="sc-bXdtCk joylCA"
+    href="#target"
+    target="_self"
+  >
+    <img
+      alt="Logo"
+      data-nimg="1"
+      decoding="async"
+      fetchpriority="high"
+      height="48"
+      src="/_next/image?url=%2Flogo.png&w=96&q=75"
+      srcset="/_next/image?url=%2Flogo.png&w=48&q=75 1x, /_next/image?url=%2Flogo.png&w=96&q=75 2x"
+      style="color: transparent; height: 3rem; width: auto;"
+      width="48"
+    />
+  </a>
+</h1>
+`;
+
+exports[`<LogoLink /> > should match snapshot with text only 1`] = `
+<h1
+  class="sc-hKDTPf fAiovE"
+  data-testid="heading"
+>
+  <a
+    class="sc-bXdtCk joylCA"
+    href="#target"
+    target="_self"
+  >
+    <span>
+      Logo
+    </span>
+  </a>
+</h1>
+`;

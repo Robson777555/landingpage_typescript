@@ -1,0 +1,58 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`<Menu /> >  Snapshpt page  1`] = `
+<div
+  class="sc-bXdtCk dqbQEq"
+>
+  <div
+    class="sc-gwsNht cxvrue"
+    data-testid="section-container"
+  >
+    <div
+      class="sc-hKDTPf dPoFM"
+    >
+      <h1
+        class="sc-jMpmlX eITWUX"
+        data-testid="heading"
+      >
+        <a
+          class="sc-dYOLZc etiJDl"
+          href="#target"
+          target="_self"
+        >
+          <span>
+            Logo
+          </span>
+        </a>
+      </h1>
+      <nav
+        aria-label="Main menu"
+        class="sc-jZhnRx pXseN"
+        role="navigation"
+      >
+        <a
+          class="sc-hoLldG brFPWH"
+          href="#target1"
+          target="_self"
+        >
+          Serviços
+        </a>
+        <a
+          class="sc-hoLldG brFPWH"
+          href="#target2"
+          target="_self"
+        >
+          Tecnologias usadas
+        </a>
+        <a
+          class="sc-hoLldG brFPWH"
+          href="#target3"
+          target="_self"
+        >
+          Tecnologias essenciais
+        </a>
+      </nav>
+    </div>
+  </div>
+</div>
+`;
